@@ -62,9 +62,4 @@ BTech CSE, UPES
 🔗 LinkedIn
 📧 ronakkumar3214@gmail.com
 
-📄 License
-MIT License © 2025 Ronak
-
-✅ You can now **paste this directly** into your `README.md` file and commit!  
-Want me to include your actual `app.py` or training code too in a single block?
 
