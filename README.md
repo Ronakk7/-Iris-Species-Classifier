@@ -1,4 +1,4 @@
-# -Iris-Species-Classifier
+# Iris-Species-Classifier
 # 🌸 Iris Species Classifier (Random Forest + Streamlit)
 
 This project is a simple yet effective web application that classifies Iris flower species using a **Random Forest Classifier** trained on the famous **Iris dataset**. The app is built with **Streamlit** and allows users to input flower measurements and receive predictions instantly.
@@ -44,9 +44,27 @@ iris_streamlit_app/
 ```bash
 git clone https://github.com/yourusername/iris_streamlit_app.git
 cd iris_streamlit_app
+---
 
-Step 2: Create Virtual Environment
-python -m venv venv
-venv\Scripts\activate    # On Windows
-# OR
-source venv/bin/activate  # On Mac/Linux
+
+## 🔁 Optional Enhancements
+🔍 Add XGBoost classifier
+
+🌐 Deploy to Streamlit Cloud
+
+📊 Add SHAP model explainability
+
+💾 Save user inputs to CSV
+
+🧑‍💻 Author
+Ronak
+BTech CSE, UPES
+🔗 LinkedIn
+📧 ronakkumar3214@gmail.com
+
+📄 License
+MIT License © 2025 Ronak
+
+✅ You can now **paste this directly** into your `README.md` file and commit!  
+Want me to include your actual `app.py` or training code too in a single block?
+
